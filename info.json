@@ -21,7 +21,7 @@
     "contents": {
         "playbooks": [
             {
-                "name": "99 - ROI Widget Demo"
+                "name": "02 - Use Case - ROI Widget Demo"
             }
         ],
         "globalVariables": [],

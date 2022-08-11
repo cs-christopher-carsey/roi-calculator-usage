@@ -1,11 +1,11 @@
 {
     "@context": "\/api\/3\/contexts\/WorkflowCollection",
     "@type": "WorkflowCollection",
-    "name": "99 - ROI Widget Demo",
+    "name": "02 - Use Case - ROI Widget Demo",
     "description": null,
     "visible": true,
     "image": null,
-    "uuid": "236f9f46-947c-4ad4-9e26-3503b220cfdd",
+    "uuid": "656f9f46-947c-4ad4-9e26-3503b220c111",
     "deletedAt": null,
     "recordTags": []
 }
