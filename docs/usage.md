@@ -21,6 +21,6 @@ Below is an example after ~100 executions of the ENG playbook and ~50 executions
 ## Next steps
 Implement your own use case:
 - Change the job codes to match your needs
-- Add the 'roi' and 'roi-<JobCode>-<minutes>' tags to your playbooks to estimate how long it takes the JobCode to complete the same task manually (in minutes).
+- Add the 'roi' and 'roi-\<JobCode\>-\<minutes\>' tags to your playbooks to estimate how long it takes the JobCode to complete the same task manually (in minutes).
 - Change it up by adding multiple tags to a playbook - e.g. roi, roi-eng-20, roi-hr-15 to represent 20 minutes of ENG time and 15 minutes of HR time.
 - Change up the dashboard by adding multiple job codes to a single ROI widget configuration to calculate the total of all listed job codes
